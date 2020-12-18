@@ -8,4 +8,4 @@ dínamica una gráfica que representa el valor del inventario en los meses selec
 le damos la posibilidad al usuario de crear hasta un máximo de 3 inventarios y poder ver la evolución que ha tenido durante el año.
 
 ## Login
-![recursos/login.png][login] 
+![recursos/login.PNG][login] 
