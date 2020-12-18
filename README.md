@@ -8,4 +8,34 @@ dínamica una gráfica que representa el valor del inventario en los meses selec
 le damos la posibilidad al usuario de crear hasta un máximo de 3 inventarios y poder ver la evolución que ha tenido durante el año.
 
 ## Login
-! [Login] (/recursos/login "Login")
+
+![Login](/recursos/Fotos-Interfaz/login.PNG)
+
+## Register
+
+![Register](/recursos/Fotos-Interfaz/register.PNG)
+
+## Bienvenido
+
+![Bienvenido](/recursos/Fotos-Interfaz/bienvenido.PNG)
+
+## Detalles del Inventario
+
+![Detalles](/recursos/Fotos-Interfaz/listaInventario.PNG)
+
+## Evolución del Inventario
+
+![Evolución](/recursos/Fotos-Interfaz/evolucionInventario.PNG)
+
+## Crear Inventario Personalizado
+
+![Crear Inventario](/recursos/Fotos-Interfaz/crearInventario.PNG)
+
+## Ver Inventarios Personalizados
+
+![Ver Inventario](/recursos/Fotos-Interfaz/verInventarios.PNG)
+
+## Ajustes de Cuenta
+
+![Ajustes Cuenta](/recursos/Fotos-Interfaz/ajustesUsuario.PNG)
+
