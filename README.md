@@ -6,3 +6,6 @@ mercado exclusivo para este juego y donde hay un mercado siempre hay inversores.
 dínamica una gráfica que representa el valor del inventario en los meses seleccionado.
 * Inventarios personalizados: Con este servicio le damos la posibilidad al usuario de saber que habría pasado si hubiese invertidos en otros ítems, de esta manera nosotros
 le damos la posibilidad al usuario de crear hasta un máximo de 3 inventarios y poder ver la evolución que ha tenido durante el año.
+
+## Login
+![login.png][login] 
